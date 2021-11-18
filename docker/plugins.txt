@@ -113,6 +113,7 @@ kubernetes
 kubernetes-cli
 kubernetes-client-api
 kubernetes-credentials
+locale
 lockable-resources
 mailer
 matrix-auth
