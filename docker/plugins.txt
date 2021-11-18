@@ -8,6 +8,7 @@ apache-httpcomponents-client-4-api
 artifactory
 async-http-client
 authentication-tokens
+authorize-project
 aws-credentials
 badge
 basic-branch-build-strategies
