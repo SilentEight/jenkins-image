@@ -4,7 +4,7 @@ BASE_IMAGE = jenkins/jenkins
 IMAGE_NAME ?= jenkins-image
 DOCKER_REPO := ghcr.io/silenteight
 JENKINS_VERSION ?= lts-slim
-IMAGE_VERSION ?= latest
+IMAGE_VERSION ?= master
 
 IMAGE = $(DOCKER_REPO)/$(IMAGE_NAME)
 
