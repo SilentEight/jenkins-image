@@ -1,3 +1,3 @@
-# Master Jenkins Image
+# Jenkins Controller Image
 
-Container image for Jenkins master.
+Container image for Jenkins controller.
