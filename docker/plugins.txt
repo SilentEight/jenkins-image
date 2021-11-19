@@ -160,7 +160,6 @@ sectioned-view
 slack
 snakeyaml-api
 sonar
-sonar-quality-gates
 sse-gateway
 ssh-agent
 ssh-credentials
