@@ -162,7 +162,6 @@ snakeyaml-api
 sonar
 sonar-quality-gates
 sse-gateway
-ssh
 ssh-agent
 ssh-credentials
 ssh-slaves
